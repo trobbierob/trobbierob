@@ -1,4 +1,5 @@
 ### Hi there 👋
+### ⚡ Fun fact: I'm learning how to cook
 
 <!--
 **trobbierob/trobbierob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚡ Fun fact: I'm learning how to...
+### ⚡ Fun fact: I'm learning how to... python my way out of a wet paper bag
 
 <!--
 **trobbierob/trobbierob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

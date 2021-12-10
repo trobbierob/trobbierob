@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 ### ⚡ Fun fact: I'm learning how to... python my way out of a wet paper bag
 
 <!--

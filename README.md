@@ -1,5 +1,13 @@
-### Hey there 👋
-### ⚡ Fun fact: I'm learning how to... python my way out of a wet paper bag
+## Hey there 👋
+### 🌱 I’m currently learning Full-stack Engineering and QA
+
+![trobbierob's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobbierob&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trobbierob&layout=compact)](https://github.com/trobbierob/github-readme-stats)
+
+
+## Credit
+#### ![🤔Github README Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **trobbierob/trobbierob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ## Hey there 👋
-### 🌱 I’m currently learning Full-stack Engineering and QA
+### 🌱 I’m learning
 
 ![trobbierob's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobbierob&show_icons=true)
 
